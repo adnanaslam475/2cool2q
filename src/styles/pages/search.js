@@ -1,0 +1,131 @@
+import { StyleSheet } from "react-native";
+import { BaseColor } from "common/color";
+import { Dimensions } from "react-native";
+export default StyleSheet.create({
+  boxShadow: { marginVertical: 5 },
+  boxContainer: {
+    flex: 1,
+    marginLeft: 10,
+    paddingTop: 10,
+    paddingBottom: 10,
+  },
+  boxAddress: { marginTop: 7 },
+  boxPostCode: { marginTop: 0 },
+  boxStar: { flexDirection: "row", marginTop: 10 },
+  boxKiloMeter: { flexDirection: "row", alignItems: "center" },
+  boxStarMargin: { marginRight: 2 },
+  boxKM: { marginLeft: 30, marginRight: 15 },
+  boxEnd: {
+    flex: 1,
+    flexDirection: "row",
+    alignItems: "flex-end",
+    justifyContent: "flex-end",
+  },
+  bussnessHeight: {
+    backgroundColor: BaseColor.mainBackground,
+    alignItems: "center",
+  },
+  flex1: {
+    flex: 1,
+  },
+  mapContainer: {
+    marginTop: 0,
+    marginRight: 10,
+    paddingRight: 20,
+    width: Dimensions.get("window").width,
+    height: Dimensions.get("window").height - 83,
+  },
+  mapView: { marginRight: 25 },
+  // eslint-disable-next-line react-native/no-color-literals
+  mapPinBox: {
+    flex: 1,
+    backgroundColor: "#FFF",
+    padding: 4,
+    alignItems: "flex-start",
+    borderColor: "#0D97DF",
+    borderWidth : 1.5,
+  },
+  mapDoubleArrowSize: {
+    width: 25,
+    height: 15,
+    position: "absolute",
+    right: 0,
+    marginTop: 250,
+    marginRight: 0,
+  },
+  businessAddress: { marginTop: 0 },
+  secondDoubleArrow: {
+    width: 25,
+    height: 15,
+    position: "absolute",
+    right: 0,
+    marginTop: 400,
+    marginRight: 0,
+  },
+  thirdDoubleArrow: {
+    width: 25,
+    height: 15,
+    position: "absolute",
+    right: 0,
+    marginTop: 400,
+    marginRight: 0,
+  },
+  withAnimation: {
+    position: "absolute",
+    right: 0,
+    marginTop: 10,
+    marginRight: 15,
+  },
+  IconWidth: { width: 45 },
+  iconSize: { width: 20, height: 20 },
+  zoomIcon: {
+    position: "absolute",
+    right: 0,
+    marginTop: 100,
+    marginRight: 15,
+  },
+  zoomInIcon: {
+    position: "absolute",
+    right: 0,
+    marginTop: 140,
+    marginRight: 15,
+  },
+  plusIconWidth: { width: 20, height: 20 },
+  searchBoxContainer: { padding: 10 },
+  searchBoxView: {
+    backgroundColor: BaseColor.mainBackground,
+    alignItems: "center",
+    alignContent: "center",
+    flexDirection: "row",
+    paddingVertical: 10,
+    paddingHorizontal: 20,
+  },
+  mapIcon: { marginLeft: 15 },
+  searchShaddow: {
+    marginTop: 0,
+    shadowColor: BaseColor.blackColor,
+    shadowOffset: { width: 0, height: 0 },
+    shadowOpacity: 0.3,
+  },
+  shadowBox: {
+    marginTop: 0,
+    shadowColor: BaseColor.blackColor,
+    shadowOffset: { width: 0, height: 0 },
+    shadowOpacity: 0.3,
+  },
+  flateListStyle: { marginTop: 0, marginBottom: 0 },
+  searchItem: {
+    height: Dimensions.get("window").height - 100,
+    backgroundColor: BaseColor.mainBackground,
+    alignItems: "center",
+  },
+  loaderPosition: { marginTop: 30 },
+  filterIconPosition: { marginLeft: 15 },
+
+  closeIconSize: { width: 25, height: 25, marginBottom: 10 },
+  
+  setBusinessModalButton: {
+    alignSelf: "center",
+    marginTop: 20,
+  },
+});

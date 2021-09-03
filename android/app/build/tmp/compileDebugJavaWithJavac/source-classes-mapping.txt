@@ -1,0 +1,14 @@
+com/coolq/ReactNativeFlipper.java
+ com.coolq.ReactNativeFlipper
+ com.coolq.ReactNativeFlipper$1
+ com.coolq.ReactNativeFlipper$2
+ com.coolq.ReactNativeFlipper$2$1
+com/coolq/BuildConfig.java
+ com.coolq.BuildConfig
+com/coolq/MainApplication.java
+ com.coolq.MainApplication
+ com.coolq.MainApplication$1
+com/coolq/MainActivity.java
+ com.coolq.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

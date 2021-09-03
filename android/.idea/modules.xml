@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CoolQ.iml" filepath="$PROJECT_DIR$/.idea/modules/CoolQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CoolQ.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CoolQ.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1493379496/CoolQ.react-native-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/-1493379496/CoolQ.react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2136916132/CoolQ.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/2136916132/CoolQ.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2124371992/CoolQ.react-native-community_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-2124371992/CoolQ.react-native-community_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-720880764/CoolQ.react-native-community_slider.iml" filepath="$PROJECT_DIR$/.idea/modules/-720880764/CoolQ.react-native-community_slider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1732466020/CoolQ.react-native-community_viewpager.iml" filepath="$PROJECT_DIR$/.idea/modules/1732466020/CoolQ.react-native-community_viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/271129754/CoolQ.react-native-default-preference.iml" filepath="$PROJECT_DIR$/.idea/modules/271129754/CoolQ.react-native-default-preference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/146250125/CoolQ.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/146250125/CoolQ.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/467978864/CoolQ.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/467978864/CoolQ.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-837052078/CoolQ.react-native-geolocation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/-837052078/CoolQ.react-native-geolocation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1697166515/CoolQ.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1697166515/CoolQ.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1779430952/CoolQ.react-native-get-location.iml" filepath="$PROJECT_DIR$/.idea/modules/1779430952/CoolQ.react-native-get-location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1935842577/CoolQ.react-native-i18n.iml" filepath="$PROJECT_DIR$/.idea/modules/1935842577/CoolQ.react-native-i18n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1514990364/CoolQ.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1514990364/CoolQ.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1951245696/CoolQ.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/1951245696/CoolQ.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/622137300/CoolQ.react-native-notifications.iml" filepath="$PROJECT_DIR$/.idea/modules/622137300/CoolQ.react-native-notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1172301071/CoolQ.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-1172301071/CoolQ.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/266000879/CoolQ.react-native-picker-module.iml" filepath="$PROJECT_DIR$/.idea/modules/266000879/CoolQ.react-native-picker-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/456426889/CoolQ.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/456426889/CoolQ.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-459183012/CoolQ.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-459183012/CoolQ.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1819586700/CoolQ.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1819586700/CoolQ.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1640930863/CoolQ.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1640930863/CoolQ.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1063135229/CoolQ.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1063135229/CoolQ.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/677431244/CoolQ.rn-fetch-blob.iml" filepath="$PROJECT_DIR$/.idea/modules/677431244/CoolQ.rn-fetch-blob.iml" />
+    </modules>
+  </component>
+</project>

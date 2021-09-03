@@ -1,0 +1,6 @@
+module Pods_CoolQ {
+  umbrella header "Pods-CoolQ-umbrella.h"
+
+  export *
+  module * { export * }
+}

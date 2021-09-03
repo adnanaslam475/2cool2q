@@ -1,0 +1,96 @@
+import { StyleSheet } from "react-native";
+import { BaseColor } from "common/color";
+export default StyleSheet.create({
+  mainView: { flex: 1 },
+  mainContaine: { marginLeft: 25, marginRight: 25, marginTop: 10 },
+  textCenter: { textAlign: "center" },
+  bookSlote: {
+    flexDirection: "row",
+    alignItems: "center",
+    marginTop: 10,
+  },
+  leftArrowView: { width: 48, alignItems: "center", marginBottom: 20 },
+  iconSize: { width: 30, height: 30 },
+  scrollHeight: {
+    paddingRight: 0,
+    minHeight: 120,
+    alignContent: "center",
+  },
+  noSloteAvailableView: {
+    position: "absolute",
+    left: 0,
+    right: 0,
+    top: 0,
+    bottom: 0,
+    alignItems: "center",
+    justifyContent: "center",
+    backgroundColor: BaseColor.grayColor,
+  },
+  fontSize18: {
+    fontSize: 18,
+  },
+  bookisCallEndView: {
+    position: "absolute",
+    left: 48,
+    right: 48,
+    top: 0,
+    bottom: 20,
+  },
+  bookisCalledContaine: {
+    width: "100%",
+    height: "100%",
+    opacity: 0.2,
+    backgroundColor: BaseColor.whiteColor,
+  },
+  booisCalled: {
+    position: "absolute",
+    left: 0,
+    right: 0,
+    bottom: 0,
+    top: 0,
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  noSloteMain: {
+    flexDirection: "row",
+    marginTop: 10,
+    alignContent: "center",
+    justifyContent: "center",
+  },
+  checkBoxStyle: {
+    marginLeft: 25,
+    width: 22,
+    height: 22,
+    marginTop: 2,
+  },
+  afterNoonIcon: { marginLeft: 10, marginTop: 3 },
+  nightIcon: { marginLeft: 11, marginTop: 3 },
+  calendarView: { marginLeft: 25, alignItems: "flex-end" },
+  calenderIcon: { width: 23, height: 24, marginTop: 0 },
+  quantityView: {
+    flexDirection: "row",
+    marginTop: 20,
+    marginBottom: 20,
+    alignItems: "center",
+  },
+  bookMeButton: { flex: 1, alignItems: "flex-end" },
+  mainCalenderModal: { margin: 30, borderRadius: 3 },
+  calendarViewContaint: {
+    backgroundColor: BaseColor.whiteColor,
+    padding: 10,
+    borderRadius: 10,
+    paddingBottom: 25,
+  },
+  calenderModalWidth: { marginVertical: 0, width: "100%" },
+  calender: {
+    marginTop: 20,
+    height: 350,
+  },
+  calenderWeak:{
+    marginTop: 15,
+    flexDirection: "row",
+    justifyContent: "space-between",
+  },
+  setCalender:{ position: "absolute", right: 0, top: 0, margin: 0 },
+  closeIcon:{ width: 25, height: 25, marginBottom: 10 }
+});

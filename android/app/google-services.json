@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "969136722168",
+    "project_id": "cool2qfirebase",
+    "storage_bucket": "cool2qfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969136722168:android:9818d7c2f2081c6b6f2b0d",
+        "android_client_info": {
+          "package_name": "com.coolq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969136722168-a0gnp9dof2td5dfvkrng877efgs8voj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Mr_w_onfyL2myraJr5AHb83v2WvFhVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969136722168-a0gnp9dof2td5dfvkrng877efgs8voj6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "969136722168-54p74vm107e3fg7cib29r25eblmhopnv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.alarconit.2cool2q"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
